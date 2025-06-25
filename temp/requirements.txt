@@ -1,0 +1,7 @@
+gitpython
+langchain
+langchain_community
+langchain-google-genai
+langchain-huggingface
+faiss-cpu
+python-dotenv
