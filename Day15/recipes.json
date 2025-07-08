@@ -1,0 +1,52 @@
+[
+  {
+  "name": "Paneer Butter Masala",
+  "ingredients": "paneer, tomato, butter, cream, spices, ginger, garlic",
+  "instructions": "Cook tomato, garlic, ginger with spices. Blend to paste. Add paneer and cream. Simmer."
+},
+{
+  "name": "Vegetable Stir Fry",
+  "ingredients": "broccoli, bell pepper, carrot, soy sauce, garlic, ginger",
+  "instructions": "Stir fry vegetables in oil with garlic and ginger. Add soy sauce and cook until tender."
+},
+{
+  "name": "Aloo Gobi",
+  "ingredients": "potato, cauliflower, onion, tomato, turmeric, cumin",
+  "instructions": "Saute onion, add spices, then potato and cauliflower. Cook until soft."
+},
+{
+  "name": "Veggie Wrap",
+  "ingredients": "tortilla, lettuce, tomato, cucumber, hummus, bell pepper",
+  "instructions": "Spread hummus on tortilla, add veggies, wrap tightly and serve."
+},
+{
+  "name": "Tomato Soup",
+  "ingredients": "tomatoes, onion, garlic, basil, cream",
+  "instructions": "Cook tomatoes with onion and garlic, blend, simmer, and add cream before serving."
+},
+{
+  "name": "Chickpea Salad",
+  "ingredients": "chickpeas, cucumber, tomato, lemon juice, olive oil, herbs",
+  "instructions": "Mix all ingredients in a bowl and toss with lemon and olive oil."
+},
+{
+  "name": "Paneer Sandwich",
+  "ingredients": "bread, paneer, onion, tomato, green chutney",
+  "instructions": "Spread chutney on bread, layer paneer and veggies, grill or toast."
+},
+{
+  "name": "Sweet Corn Chaat",
+  "ingredients": "boiled corn, lemon, onion, chili, salt, chaat masala",
+  "instructions": "Mix all ingredients and serve warm or cold."
+},
+{
+  "name": "Mixed Veg Pulao",
+  "ingredients": "rice, carrot, peas, beans, cumin, onion, spices",
+  "instructions": "Sauté veggies with spices, add rice and water, cook until done."
+},
+{
+  "name": "Spinach Pasta",
+  "ingredients": "pasta, spinach, garlic, cream, olive oil",
+  "instructions": "Cook pasta. Sauté garlic and spinach, mix with cream. Combine with pasta."
+}
+]
